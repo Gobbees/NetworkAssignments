@@ -1,0 +1,4 @@
+./udpServer.exe udp 8501 wait 
+./tcpServer.exe tcp 8502 wait
+./udpServer.exe udp 8503 nowait
+./tcpServer.exe tcp 8504 nowait
